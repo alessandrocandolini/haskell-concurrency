@@ -1,3 +1,5 @@
+[![CI](https://github.com/alessandrocandolini/haskell-concurrency/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/haskell-concurrency/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/alessandrocandolini/haskell-concurrency/branch/main/graph/badge.svg?token=tAtNubiNbt)](https://codecov.io/gh/alessandrocandolini/haskell-concurrency)
+
 # haskell-concurrency
 
 ## How to build and run locally
