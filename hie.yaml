@@ -1,0 +1,14 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-concurrency:lib"
+
+    - path: "./app/Main.hs"
+      component: "haskell-concurrency:exe:haskell-concurrency-exe"
+
+    - path: "./app/Paths_haskell-concurrency.hs"
+      component: "haskell-concurrency:exe:haskell-concurrency-exe"
+
+    - path: "./test"
+      component: "haskell-concurrency:test:haskell-concurrency-test"
+
